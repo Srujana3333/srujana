@@ -21,7 +21,8 @@ The smallest circle that just encapsulates the particle (the circle has to be ge
 	Example – 
 
 
-![image](https://github.com/manishkumar00208/Mineral-Processing-Technology-Image-Analytics/assets/76589863/a390efee-3ebe-453b-ab09-08bef50b7e88)
+![image](https://github.com/manishkumar00208/Mineral-Processing-Technology-Image-Analytics/assets/76589863/f922f999-61cd-465a-8676-e9c0998bfd3b)
+
 
 
 
@@ -47,7 +48,17 @@ Example –
 5. Centroid of the particle (Has to be generated on the image)
 
 
-![image](https://github.com/manishkumar00208/Mineral-Processing-Technology-Image-Analytics/assets/76589863/d33594ea-ce22-480a-955f-2cde7f323013)
+![image](https://github.com/manishkumar00208/Mineral-Processing-Technology-Image-Analytics/assets/76589863/f01af9b5-3150-4bf4-af53-f6d70242baac)
+
+
+
+
+
+Candidates need to write a script in the language of their choice to read the input images for the challenge form the “input” folder, process each image based on the calculations mentioned and save the output image in the “output” folder.
+
+Images are essentially matrices, and all kinds of matrix operations will work on them. Students can learn about how to interprete the images using opencv and then apply their logic to solve the problems.![image]
+
+
 
 
 
